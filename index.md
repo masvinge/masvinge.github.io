@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {{ '{example'|prepend:'{' }}}}
+title: Testar
 subtitle: Kvalité mellan vingarna
 bigimg: /img/logo.png
 ---
