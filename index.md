@@ -2,7 +2,7 @@
 layout: page
 title: \{ Måsvinge AB \}
 subtitle: Kvalité mellan vingarna
-bigimg: logo.png
+bigimg: /img/logo.png
 ---
 
 My name is Inigo Montoya. I have the following qualities:
