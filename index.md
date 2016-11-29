@@ -1,11 +1,11 @@
 ---
 layout: page
-title: &#123; Måsvinge AB &#125;
+title: Måsvinge AB
 subtitle: Kvalité mellan vingarna
 bigimg: /img/logo.png
 ---
 My name is Inigo Montoya. I have the following qualities:
-
+&#123; Måsvinge AB &#125;
 - I rock a great mustache
 - I'm extremely loyal to my family
 
