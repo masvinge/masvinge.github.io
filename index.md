@@ -1,10 +1,9 @@
 ---
 layout: page
-title: \{ Måsvinge AB \}
+title: `{ Måsvinge AB }`
 subtitle: Kvalité mellan vingarna
 bigimg: /img/logo.png
 ---
-
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
