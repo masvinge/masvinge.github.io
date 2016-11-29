@@ -1,6 +1,6 @@
 ---
 layout: page
-title: &#123; Måsvinge &#123;
+title: {{ "{{ " }}"{{ "{{ this" }} " }}{{ "}}}}
 subtitle: Kvalité mellan vingarna
 bigimg: /img/logo.png
 ---
