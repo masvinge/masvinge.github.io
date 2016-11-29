@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testar
+title: {% assign special = '{{ example }}' %} {{ special }}
 subtitle: Kvalité mellan vingarna
 bigimg: /img/logo.png
 ---
