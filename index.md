@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {{ "{% this " }}%}
+title: "{{ this " }}
 subtitle: Kvalité mellan vingarna
 bigimg: /img/logo.png
 ---
