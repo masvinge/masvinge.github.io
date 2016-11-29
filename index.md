@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {% endraw %} { Måsvinge AB } {% endraw %}
+title: {{ '{example'|prepend:'{' }}}}
 subtitle: Kvalité mellan vingarna
 bigimg: /img/logo.png
 ---
