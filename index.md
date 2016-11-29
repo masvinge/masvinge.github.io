@@ -1,6 +1,6 @@
 ---
 layout: page
-title: { Måsvinge }
+title: {% raw  %} { Måsvinge } {% endraw  %}
 subtitle: Kvalité mellan vingarna
 bigimg: /img/logo.png
 ---
@@ -9,7 +9,7 @@ My name is Inigo Montoya. I have the following qualities:
 - I rock a great mustache
 - I'm extremely loyal to my family
 
-What else do you need?3
+What else do you need?4
 
 ### my history
 
