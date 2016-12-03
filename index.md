@@ -1,6 +1,6 @@
 ---
 layout: page
-title: &#123 ;måsvinge; &#125;
+title: måsvinge;
 subtitle: Kvalité mellan vingarna
 bigimg: /img/logo.png
 ---
