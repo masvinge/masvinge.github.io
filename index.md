@@ -8,25 +8,3 @@ Välkommen till måsvinge AB; det lilla utvecklingsbolaget med det stora kontakt
 
 ## <kontakt@masvinge.com>
 
-### Nyutveckling
- - Microsoft .NET
- - Java 
- - Html 
- - Apputveckling
- - Databassystem
-
-### Förvaltning & Underhåll
- - Microsoft .NET
- - Java
- - Html
- - C++
- - Delphi
- - Access & Excel
- 
-### Drift 
- - Amazon Cloud
- - Microsoft Azure
- - Windows Server
- - Linux
- 
- 
