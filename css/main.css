@@ -25,8 +25,8 @@ h1 {
   font-family: Arial, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 400;
   letter-spacing: 10px;  
-  margin-bottom:20px
-  color: RGB(0,200,255)
+  margin-bottom:20px;
+  color: RGB(0,200,255);
 }
 a {
   color: #008AFF;
@@ -424,7 +424,7 @@ footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
-  letter-spacing:2px
+  letter-spacing:2px;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
